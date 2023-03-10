@@ -1,5 +1,5 @@
-<h1>Hey there!</h1>
-<h3>I'm currently a Software Engineering Student || Front-end.</h3>
+##Hey there!
+**I'm currently a Software Engineering Student || Front-end.**
 
 - 🔭 Currently working on #100DaysCodeChallenge
 - 🌱 Currently learning Frontend Web Technologies

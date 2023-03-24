@@ -12,9 +12,6 @@ Name | Badges
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chiemella&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 <a href="https://github.com/chiemella/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiemella">

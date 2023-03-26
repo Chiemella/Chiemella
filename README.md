@@ -1,5 +1,5 @@
-<h3 align="center">A multidisciplinary Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<h3 align="left">A multidisciplinary Full-Stack Developer</h3>
+<img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently working on [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)
 

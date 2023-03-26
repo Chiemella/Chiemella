@@ -1,7 +1,19 @@
-## 🌐 Socials:
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"
+<h3 align="center">A multidisciplinary Full-Stack software engineering student</h3>
+
+- 🔭 I’m currently working on [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)
+
+- 👯 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities.**
+
+- 💬  Ask me anything about **Web technologies**
+
+- 📫 How to reach me **williamschiemelaod@gmail.com**
+
+
+## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chiemelawilliams) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emela_williams) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiemella/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emela_williams)
 
-## 💻 Tech-Stack
+## 💻 Languages and Tools:
 Name | Badges
 --- | ---
 **Designs**  |  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
@@ -10,9 +22,9 @@ Name | Badges
 
 
 ## 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=chiemella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chiemella&count_private=true&theme=tokyonight&showicons=true)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=5&theme=tokyonight)]()
 
 ---
 <a href="https://github.com/chiemella/github-profile-views-counter">

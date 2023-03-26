@@ -1,5 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"
-<h3 align="center">A multidisciplinary Full-Stack software engineering student</h3>
+<h3 align="center">A multidisciplinary Full-Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently working on [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)
 
@@ -23,9 +23,10 @@ Name | Badges
 
 ## 📊 Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chiemella&count_private=true&theme=tokyonight&showicons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=5&theme=tokyonight)]()
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=5&theme=tokyonight)]()
 ---
 <a href="https://github.com/chiemella/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiemella">

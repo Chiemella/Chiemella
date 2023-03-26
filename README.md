@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)
 
-- 👯 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities.**
+- 👨‍💻 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities.**
 
 - 💬  Ask me anything about **Web technologies**
 

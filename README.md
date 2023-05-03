@@ -26,8 +26,6 @@ Name | Badges
 
 
 ## 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&layout=compact)]()
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)]()

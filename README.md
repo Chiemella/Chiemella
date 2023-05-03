@@ -26,9 +26,9 @@ Name | Badges
 
 
 ## 📊 Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=20&theme=tokyonight)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
 ---
 <a href="https://github.com/chiemella/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiemella">

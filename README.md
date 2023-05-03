@@ -26,11 +26,11 @@ Name | Badges
 
 
 ## 📊 Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chiemella&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&layout=compact)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)]()
 ---
 <a href="https://github.com/chiemella/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiemella">

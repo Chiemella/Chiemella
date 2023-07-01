@@ -1,4 +1,4 @@
-<h3 align="left">Full-Stack JavaScript Developer.</h3>
+<h3 align="left">A multidisciplinary Full-Stack JavaScript Developer.</h3>
 <img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently working on [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)

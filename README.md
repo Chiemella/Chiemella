@@ -42,7 +42,8 @@ Name | Badges
 
 
 ## 📊 Stats:
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=100&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)](https://github.com/chiemella)
+<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=100&theme=tokyonight)]()-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
 ---

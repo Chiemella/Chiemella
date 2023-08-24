@@ -42,6 +42,8 @@ Name | Badges
 
 
 ## 📊 Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
+
 <a href="https://github.com/chiemella">
   <img alt="chiemella's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chiemella&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%">
 </a>
@@ -51,18 +53,9 @@ Name | Badges
 
 <hr> <!-- Add a horizontal rule for separation -->
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/chiemella/github-profile-views-counter">
       <img src="https://komarev.com/ghpvc/?username=chiemella">
   </a>
-
-  <a href="https://github.com/chiemella?tab=followers">
-      <img src="https://img.shields.io/github/followers/chiemella?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-
   <a href="https://github.com/chiemella?tab=followers">
     <img src="https://img.shields.io/github/followers/chiemella?label=Followers&style=social" alt="GitHub Badge">
   </a>
-</div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)

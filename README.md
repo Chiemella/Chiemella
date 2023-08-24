@@ -42,7 +42,7 @@ Name | Badges
 
 
 ## 📊 Stats:
-<div style="background-color: white; padding: 20px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background-color: white; padding: 50px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
 <p style="margin-left: 2rem;">
  <a href="https://github.com/chiemella/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chiemella's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -51,10 +51,11 @@ Name | Badges
 
 <a href="https://github.com/chiemella/github-readme-stats"><img alt="Chiemella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiemella&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/chiemella/github-readme-stats"><img alt="Chiemella's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- <div>
+
 
    
 <a href="https://github.com/chiemella/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chiemella">
 </a>
 <a href="https://github.com/chiemella?tab=followers"><img src="https://img.shields.io/github/followers/chiemella?label=Followers&style=social" alt="GitHub Badge"></a>
+ <div>

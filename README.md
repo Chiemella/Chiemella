@@ -51,11 +51,11 @@ Name | Badges
   <img alt="chiemella's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%">
 </a>
 
-<hr> <!-- Add a horizontal rule for separation -->
-
+<span style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/chiemella/github-profile-views-counter">
-      <img src="https://komarev.com/ghpvc/?username=chiemella">
+    <img src="https://komarev.com/ghpvc/?username=chiemella">
   </a>
   <a href="https://github.com/chiemella?tab=followers">
     <img src="https://img.shields.io/github/followers/chiemella?label=Followers&style=social" alt="GitHub Badge">
   </a>
+</span>

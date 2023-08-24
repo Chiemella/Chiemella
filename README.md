@@ -42,18 +42,19 @@ Name | Badges
 
 
 ## 📊 Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
+
+<a href="https://github.com/chiemella/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chiemella">
+</a>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=100&theme=tokyonight)]()-->
 <a> 
   <a href="https://github.com/chiemella"><img alt="chiemella's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=chiemella&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <a href="https://github.com/chiemella"><img alt="chiemella's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-<!-- <![![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)](https://github.com/chiemella)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=100&theme=tokyonight)]()-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
 ---
-<a href="https://github.com/chiemella/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chiemella">
-</a>
 <a href="https://github.com/chiemella?tab=followers"><img src="https://img.shields.io/github/followers/chiemella?label=Followers&style=social" alt="GitHub Badge"></a>
 

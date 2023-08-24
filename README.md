@@ -42,10 +42,10 @@ Name | Badges
 
 
 ## 📊 Stats:
-<div style="background-color: white; box-shadow: 0px 4px 6px rgba(255, 255, 0, 0.5); padding: 50px;">
-    <p style="margin-left: 2rem;">
+
+<p style="margin-left: 2rem;">
         <a href="https://github.com/chiemella/github-readme-streak-stats">
-            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chiemella's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+            <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chiemella's streak" src="https://github-readme-streak-stats.herokuapp.com/user=chiemella&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
         </a>
     </p>
 
@@ -56,5 +56,5 @@ Name | Badges
         <img src="https://komarev.com/ghpvc/?username=chiemella">
     </a>
     <a href="https://github.com/chiemella?tab=followers"><img src="https://img.shields.io/github/followers/chiemella?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
+
 

@@ -42,7 +42,7 @@ Name | Badges
 
 
 ## 📊 Stats:
-<a href="https://github.com/chiemella" style="display: block; width: 49.5%;">
+<a href="https://github.com/chiemella" style="display: block; width: 49.5%; font-size: 18px;">
     <img alt="chiemella's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="100%"/>
 </a>
 <!-- <![![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)](https://github.com/chiemella)

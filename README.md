@@ -1,7 +1,7 @@
-<h3 align="left">A Multidisciplinary Full-Stack JavaScript Developer.</h3>
+<h3 align="left">A Multidisciplinary Full-Stack Software Engineer.</h3>
 <img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 I’m currently working on [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)
+- 🔭 Currently A Software Engineering Student [@ALX](https://www.alxafrica.com/) <!-- [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/) -->
 
 - 👨‍💻 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities.**
 
@@ -42,8 +42,16 @@ Name | Badges
 
 
 ## 📊 Stats:
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)](https://github.com/chiemella)
-<!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=100&theme=tokyonight)]()-->
+<a href="https://github.com/chiemella">
+  <img alt="chiemella's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/>
+</a>
+
+<a href="https://github.com/chiemella">
+    <img alt="chiemella's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=CDB4DB&icon_color=CDB4DB" height="192px" width="49.5%"/>
+</a>
+
+<!-- <![![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=10&theme=tokyonight)](https://github.com/chiemella)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=100&theme=tokyonight)]()-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=dark)](https://git.io/streak-stats)
 ---

@@ -42,7 +42,7 @@ Name | Badges
 
 
 ## 📊 Stats:
-<div style="background-color: white; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); padding: 50px;">
+<div style="background-color: white; box-shadow: 0px 4px 6px rgba(255, 255, 0, 0.5); padding: 50px;">
     <p style="margin-left: 2rem;">
         <a href="https://github.com/chiemella/github-readme-streak-stats">
             <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chiemella's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chiemella&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>

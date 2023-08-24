@@ -51,7 +51,6 @@ Name | Badges
 <br/>
 <a href="https://github.com/chiemella/github-readme-stats"><img alt="Chiemella's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiemella&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/chiemella/github-readme-stats"><img alt="Chiemella's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiemella&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
   
 <br/>
 <a href="https://github.com/chiemella/github-profile-views-counter">

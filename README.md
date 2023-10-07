@@ -32,6 +32,10 @@
 ## Environment:
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux Logo" width="40" height="40"> <a href="https://mirahq.com/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a> 
 
+## CMS:
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /> </a>
+<a href="https://elementor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Elementor-000000?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" /> </a>
+
 <!--  ## 💻 Languages and Tools:
 Name | Badges
 --- | ---

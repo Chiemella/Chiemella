@@ -1,7 +1,7 @@
 <h3 align="left">A Multidisciplinary Full-Stack Software Engineer.</h3>
 <img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 Currently A Software Engineering Student [@ALX](https://www.alxafrica.com/) <!-- [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)...... -->
+- 🔭 Currently A Software Engineering Student [@ALX](https://www.alxafrica.com/) <!-- [#100DaysCodeChallenge](https://chiemella.github.io/100DaysCodingChallenge/)....... -->
 
 - 👨‍💻 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities.**
 

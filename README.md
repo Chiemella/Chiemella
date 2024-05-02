@@ -1,7 +1,7 @@
 <h3 align="left">A Multidisciplinary Full-Stack Software Engineer.</h3>
 <img align="top" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 👨‍💻 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities..**
+- 👨‍💻 I’m looking to collaborate on **open source projects, hackathons, internships, and entry-level opportunities.**
 
 - 💬  Ask me anything about **Web technologies**
 
